@@ -239,7 +239,7 @@ following block diagram:
    from) a constant pin to produce a 1 (resp. 0); a switch offers the
    same functionality, but is far easier to use.
 
-##### Output   group
+#### The output   group
 
    Viewed from left-to-right, 
    the output    group comprises
