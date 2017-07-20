@@ -1,0 +1,16 @@
+Qty,Line Item,Manufacturer,Schematic Reference,Description
+,,,,
+4,SN74AC00DR,Texas Instruments,"IC1.1, IC2.1, IC3.1, IC4.1",quad 2-input NAND; SOIC-14
+4,B3FS-1000P,Omron,"SI.1, SI.2, SI.3, SI.4",SPST switch
+1,10103594-0001LF,FCI,USB,USB receptacle
+11,M20-8760842,Harwin,"J1.1, J1.2, J2.1, J2.2, J3.1, J3.2, J4.1, J4.2, JI.1, JO.1, JC.1",8x2 male header
+24,APT2012SGC,Kingbright,"D1.1, D1.2, D1.3, D1.4, D2.1, D2.2, D2.3, D2.4, D3.1, D3.2, D3.3, D3.4, D4.1, D4.2, D4.3, D4.4, DI.1, DI.2, DI.3, DI.4, DO.1, DO.2, DO.3, DO.4",green LED; 0805
+1,APT2012EC,Kingbright,DP.1,red LED; 0805
+1,1206L025YR,Littelfuse,FP.1,500 mA polyfuse; 1206
+1,C1210C107M9PACTU,KEMET,CP.1,100 uF capacitor; 1210
+1,C0805C104K3RACTU,KEMET,CP.2,100 nF = 0.1 uF capacitor; 0805
+4,742C163103JP,CTS Components,"R1.1, R2.1, R3.1, R4.1",8x10k ohm resistor array; 2506
+2,742C083103JP,CTS Components,"RI.1, RO.1",4x10k ohm resistor array; 1206
+6,742C083561JP,CTS Components,"R1.2, R2.2, R3.2, R4.2, RI.2, RO.2",4x560 ohm resistor array; 1206
+5,742C083102JP,CTS Components,"R1.3, R2.3, R3.3, R4.3, RI.3",4x1k ohm resistor array; 1206
+1,CR0603-JW-561ELF,Bourns,RP.1,560 ohm resistor; 0603
