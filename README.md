@@ -331,7 +331,7 @@ following block diagram:
 
   to implement the design.  In hindsight it would've been more useful 
   to use
-  [KiCad](http://www.kicad-pcb.org),
+  [KiCad](http://www.kicad.org),
   and porting the implementation may be worthwhile in the long-term.
 
 - Clearly one could produce a NORboard equivalent: you don't need a
