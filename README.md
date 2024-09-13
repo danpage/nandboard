@@ -89,12 +89,12 @@ to visualise the inputs and outputs.
 Motivated in part by observing how students use them, the NANDboard 
 design has gone through several revisions as is illustrated below:
 
-Revision | Image                                                                             | Design                                                                           |
-:------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-B        | <a href='./rev_b/image/pcb.jpg'><img src='./rev_b/image/pcb.jpg' width='200'></a> | [files](./rev_b)                                                                 |
-C        | <a href='./rev_c/image/pcb.jpg'><img src='./rev_c/image/pcb.jpg' width='200'></a> | [files](./rev_c)                                                                 |
-D        | <a href='./rev_d/image/pcb.jpg'><img src='./rev_d/image/pcb.jpg' width='200'></a> | [files](./rev_d) [schematic](./rev_d/README.pdf) [user guide](./rev_d/README.md) |
-F        | <a href='./rev_f/image/pcb.jpg'><img src='./rev_f/image/pcb.jpg' width='200'></a> | [files](./rev_f) [schematic](./rev_f/README.pdf) [user guide](./rev_f/README.md) |
+Revision | Image                                                                             | Design                                                                             |
+:------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+B        | <a href='./rev_b/image/pcb.jpg'><img src='./rev_b/image/pcb.jpg' width='200'></a> | [files](./rev_b)                                                                   |
+C        | <a href='./rev_c/image/pcb.jpg'><img src='./rev_c/image/pcb.jpg' width='200'></a> | [files](./rev_c)                                                                   |
+D        | <a href='./rev_d/image/pcb.jpg'><img src='./rev_d/image/pcb.jpg' width='200'></a> | [files](./rev_d), [schematic](./rev_d/README.pdf), [user guide](./rev_d/README.md) |
+F        | <a href='./rev_f/image/pcb.jpg'><img src='./rev_f/image/pcb.jpg' width='200'></a> | [files](./rev_f), [schematic](./rev_f/README.pdf), [user guide](./rev_f/README.md) |
 
 <!--- -------------------------------------------------------------------- --->
 
