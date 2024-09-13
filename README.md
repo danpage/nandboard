@@ -89,18 +89,12 @@ to visualise the inputs and outputs.
 Motivated in part by observing how students use them, the NANDboard 
 design has gone through several revisions as is illustrated below:
 
-Revision | Image                                                                             | Design
-:------: | :-------------------------------------------------------------------------------: | :-----------
-B        | <a href='./rev_b/image/pcb.jpg'><img src='./rev_b/image/pcb.jpg' width='200'></a> | [files](./rev_b)
-C        | <a href='./rev_c/image/pcb.jpg'><img src='./rev_c/image/pcb.jpg' width='200'></a> | [files](./rev_c)
-D        | <a href='./rev_d/image/pcb.jpg'><img src='./rev_d/image/pcb.jpg' width='200'></a> | [files](./rev_d)
-E        | <a href='./rev_e/image/pcb.jpg'><img src='./rev_e/image/pcb.jpg' width='200'></a> | [files](./rev_e) [user guide](./rev_e/README.md)
-F        | <a href='./rev_f/image/pcb.jpg'><img src='./rev_f/image/pcb.jpg' width='200'></a> | [files](./rev_f) [user guide](./rev_f/README.md)
-
-
-
-[schematic](./rev_e/nandboard.sch) (plus [PDF](./rev_e/nandboard.pdf)), [board](./rev_e/nandboard.brd), [BOM](./rev_e/nandboard.csv), [OSH Park (PCB)](http://www.oshpark.com/shared_projects/4jmm6cXa), [Octopart (BOM)](http://www.octopart.com/bom-tool/1i1poH1i) |
-[schematic](./rev_d/nandboard.sch) (plus [PDF](./rev_d/nandboard.pdf)), [board](./rev_d/nandboard.brd), [BOM](./rev_d/nandboard.csv), [OSH Park (PCB)](http://www.oshpark.com/shared_projects/KMYK0yGx), [Octopart (BOM)](http://www.octopart.com/bom-tool/RcuUFO2Y)         |
+Revision | Image                                                                             | Design                                                                           |
+:------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+B        | <a href='./rev_b/image/pcb.jpg'><img src='./rev_b/image/pcb.jpg' width='200'></a> | [files](./rev_b)                                                                 |
+C        | <a href='./rev_c/image/pcb.jpg'><img src='./rev_c/image/pcb.jpg' width='200'></a> | [files](./rev_c)                                                                 |
+D        | <a href='./rev_d/image/pcb.jpg'><img src='./rev_d/image/pcb.jpg' width='200'></a> | [files](./rev_d) [schematic](./rev_d/README.pdf) [user guide](./rev_d/README.md) |
+F        | <a href='./rev_f/image/pcb.jpg'><img src='./rev_f/image/pcb.jpg' width='200'></a> | [files](./rev_f) [schematic](./rev_f/README.pdf) [user guide](./rev_f/README.md) |
 
 <!--- -------------------------------------------------------------------- --->
 

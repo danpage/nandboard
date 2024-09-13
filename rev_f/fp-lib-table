@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GSB1C41110SSHR")(type "KiCad")(uri "${KIPRJMOD}/lib/GSB1C41110SSHR")(options "")(descr ""))
+  (lib (name "RN-1206-Convex-LongSideTerminals")(type "KiCad")(uri "${KIPRJMOD}/lib/RN-1206-Convex-LongSideTerminals")(options "")(descr ""))
+)

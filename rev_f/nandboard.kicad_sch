@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b92b874e-ed94-475c-9f05-ac7074b43317")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 19.05 19.05)
+		(size 50.8 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23cab2ee-3ce0-4ef5-80ad-49c699fd14e9")
+		(property "Sheetname" "connection group(s)"
+			(at 19.05 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nandboard_group_connect.kicad_sch"
+			(at 19.05 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nandboard"
+				(path "/b92b874e-ed94-475c-9f05-ac7074b43317"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 50.8)
+		(size 50.8 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ff046fa-078b-4f11-b593-3ae71100b4ef")
+		(property "Sheetname" "computation group(s)"
+			(at 19.05 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nandboard_group_compute.kicad_sch"
+			(at 19.05 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nandboard"
+				(path "/b92b874e-ed94-475c-9f05-ac7074b43317"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

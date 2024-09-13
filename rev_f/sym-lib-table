@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GSB1C41110SSHR")(type "KiCad")(uri "${KIPRJMOD}/lib/GSB1C41110SSHR/GSB1C41110SSHR.kicad_sym")(options "")(descr ""))
+)
