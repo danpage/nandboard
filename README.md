@@ -20,7 +20,7 @@ b) it seeds an ethos and skills that are of general use: for example,
    hardware-based (versus software-only) projects.
 
 The NANDboard, whose original concept and design was due to
-[Simon Hollis](http://www.cs.bris.ac.uk/home/simon),
+[Simon Hollis](https://github.com/simonhollis),
 was among various innovations introduced; Simon left at the end of the
 2014/15 academic year, ~~prompting~~ forcing me to learn the basics of
 PCB design and subsequently revise his initial NANDboard version.
